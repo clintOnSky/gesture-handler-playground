@@ -16,6 +16,9 @@ web-build/
 *.key
 *.mobileprovision
 
+# Yarn
+.yarn/
+
 # Metro
 .metro-health-check*
 
